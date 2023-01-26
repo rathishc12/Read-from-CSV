@@ -30,3 +30,4 @@ print('Col:',len(f.axes[1]))
 
 
 ## RESULT:
+Thus a python program is written to read the contents of a CSV file.
